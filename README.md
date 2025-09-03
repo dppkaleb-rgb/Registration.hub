@@ -27,4 +27,4 @@ Built with **HTML, CSS, and JavaScript**.
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/dppkaleb-rgb/Registration.hub.git
+   git clone:-https://github.com/dppkaleb-rgb/Registration.hub.git
